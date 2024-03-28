@@ -1,5 +1,5 @@
 {
-    "name": "AltairWN/laravel-options",
+    "name": "altairwn/laravel-options",
     "description": "Global options loaded from the database",
     "keywords": [
         "laravel-options"
