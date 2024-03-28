@@ -1,11 +1,10 @@
 {
-    "name": "appstract/laravel-options",
+    "name": "AltairWN/laravel-options",
     "description": "Global options loaded from the database",
     "keywords": [
-        "appstract",
         "laravel-options"
     ],
-    "homepage": "https://github.com/appstract/laravel-options",
+    "homepage": "https://github.com/AltairWN/laravel-options",
     "license": "MIT",
     "authors": [
         {
