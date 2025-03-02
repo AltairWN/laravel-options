@@ -1,6 +1,6 @@
 {
     "name": "altairwn/laravel-options",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Global options loaded from the database",
     "keywords": [
         "laravel-options"
